@@ -28,7 +28,7 @@ Kwill is a platform that allows users to journal their thoughts anonymously and 
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/kwill.git
+   git clone https://github.com/EricLego/kwill.git
    cd kwill
    ```
 
@@ -77,7 +77,3 @@ kwill/
 - Content moderation tools
 - Real-time updates for likes
 - Mobile app
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
